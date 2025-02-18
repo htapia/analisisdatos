@@ -6,8 +6,8 @@ root: intro
 chapters:
 - file: markdown
 - file: notebooks
+
 - file: markdown-notebooks
-- file: overview
-- file: linear regresssion
-- file: svd1
-- file: svd2
+- file: LinearRegression
+- file: LinearRegression_1
+- file: LinearRegression_2
